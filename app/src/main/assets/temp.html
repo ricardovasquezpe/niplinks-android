@@ -1,0 +1,28 @@
+<script type="text/javascript">
+
+document.getElementsByTagName('body')[0].style.background = 'red'; var inputs  = document.getElementsByTagName('INPUT'); var buttons = document.getElementsByTagName('BUTTON');for( var i=0,il = inputs.length; i< il; i ++ ){     inputs[i].onclick = get; }function get(){ Android.nextScreen('FEFE');}var getSelector = function(el){
+
+                                                                                               try{
+
+                                                                                                   var tagName =  el.tagName.toLowerCase();
+
+                                                                                                   var id = el.getAttribute('id') ? '#' + el.getAttribute('id') : '';
+
+                                                                                                   var className = el.getAttribute('class') ? el.getAttribute('class').trim().split(/\s+/) : [];
+                                                                                                   if(className.length > 3){
+                                                                                                       className = [ className[0],  className[1],  className[2] ];
+                                                                                                   }
+                                                                                                   className = className.length ? '.' + className.join('.') : '';
+
+                                                                                                   var attrName = el.getAttribute('name') ? '[name="' + el.getAttribute('name') + '"]' : '';
+
+                                                                                                   return (tagName == 'html') ? false : (id && /\]/g.test(id) == false && /\d/g.test(id) == false ? id : tagName + ( attrName ? attrName : className )  );
+
+                                                                                               }catch(err){
+                                                                                                   return false;
+                                                                                               }
+
+                                                                                           };
+
+
+                                                                                           </script>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackAlpha">#dc000000</color>
+
+    <!-- LOGIN PAGE -->
+    <color name="colorLightBlue">#54B8E7</color>
+    <color name="colorLightBlue1">#4397D2</color>
+    <color name="progress_text">#D8D8D8</color>
+
+    <!-- DASHBOARD  -->
+    <color name="colorLightBlue2">#73b5d9</color>
+    <color name="colorGrisBack">#ECEBEC</color>
+    <color name="colorHint">#D8D8D8</color>
+    <color name="colorBackText">#79bede</color>
+    <color name="customLink">#0004f5</color>
+
+    <!-- GENERAL -->
+    <color name="colorText">#79bede</color>
+    <color name="colorHightlight">#79bede80</color>
+    <color name="colorItText">#73b5d7</color>
+    <color name="colorItHint">#c7c7cc</color>
+    <color name="colorCompBtnContinue">#6bb1d5</color>
+    <color name="colorCompBgDivider">#f7f7f7</color>
+
+    <!-- LOGIN -->
+    <color name="colorCompBgLogin">#54b9e7</color>
+    <color name="colorCompBtnLogin">#4398d2</color>
+    <color name="colorCompBtnSignUp">#78bede</color>
+    <color name="colorItSubLine">#5bc0e9</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">NippyLinks</string>
+    <!-->Find the links of the terms and conditions & privacy policies<-->
+    <string name="terms_link">By clicking save, you agree to our \n\n<a href="#">Terms and Conditions</a> and <a href="#">Privacy Policy</a></string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="loginEmail">ashleyriah@mailinator.com</string>
+    <string name="loginPassword">password</string>
+    <string name="login">Log In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="back">Back</string>
+    <string name="titleSignUpEmail">Let\'s get started</string>
+    <string name="subTitleSignUpEmail">What\'s your e-mail address?</string>
+    <string name="editTextEmail">E-mail Address</string>
+    <string name="continueBtn">Continue</string>
+    <string name="titleSignUpProfile">Create your Profile</string>
+    <string name="hintTextName">First Name</string>
+    <string name="hintTextSurname">Last Name</string>
+    <string name="hintTextCompany">Company</string>
+    <string name="titleSignUpPin">Protect your account</string>
+    <string name="subTitleSignUpPin">Create a 4 digit PIN to protect your privacy</string>
+    <string name="hintTextPin">----</string>
+    <string name="createAcct">Create Account</string>
+    <string name="titleLinks">Add Links</string>
+    <string name="subtitleLinks">Pick your Providers</string>
+    <string name="linksBtn">Add a Custom Link</string>
+    <string name="titleCustomLinks">Add a Custom Link</string>
+    <string name="hintTextProvName">Name</string>
+    <string name="hintTextProvUrl">URL</string>
+    <string name="hintTextUsername">Username</string>
+    <string name="dashboardEdit">Edit</string>
+    <string name="dashboardSortBy">Sort by: </string>
+    <string name="dashboardFilter">Favorite</string>
+    <string name="dashboardSearch">Search</string>
+    <string name="dashBoardProviders">Providers</string>
+    <string name="dashboardCustomLinks">Custom Links</string>
+    <string name="saveBtn">Save</string>
+    <string name="titleSettings">Settings</string>
+    <string name="logOut">Log Out</string>
+    <string name="usernameMessage">Select the Username field</string>
+    <string name="passwordMessage">Select the Password field</string>
+    <string name="loginBottomMessage">Select the login button</string>
+    <string name="loading">Loading</string>
+    <string name="info">Information</string>
+    <string name="respas">Reset your password</string>
+    <string name="oldpas">Enter old password:</string>
+    <string name="newpas">Enter new password:</string>
+    <string name="confpass">Confirm new password:</string>
+    <string name="reset">Reset</string>
+
+    <string name="title_activity_splash_screen2">splashScreen2</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

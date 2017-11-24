@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="you've already added this provider, do you want to remove it from your list?"/>
+    <item
+        android:title="Not Now"
+        android:id="@+id/back_item"/>
+    <item
+        android:title="Remove"
+        android:id="@+id/remove_item"/>
+</menu>
